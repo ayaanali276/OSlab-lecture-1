@@ -17,6 +17,16 @@ a) write a c program for orphan process using fork() system.
 B) write a program for zombie process using fork() system.
 c)write a mulprocesses program using fork().
 
+Assignment 4 :
+
+a)Linear regression on iris dataset or any other dataset .
+
+b)Nonlinear regression on iris dataset or any other dataset .
+
+c)Logistic regression using iris dataset or any other dataset .
+
+
+
 Assignment -5
 
  Q1- Write a multithreaded program that generates the Fibonacci series. This program should work as follows:
