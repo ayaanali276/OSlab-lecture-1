@@ -30,3 +30,8 @@ this will require having the parent thread wait for the child thread to finish.
 
  Q2- A C program to show multiple threads with local, global and static variables.
  Create three threads and print the value of the static, global and local variable.
+ 
+ Assignement -6
+ Q1- binary and counting semaphores
+ Q2- peterson alg0
+ q3- race condition using fork
