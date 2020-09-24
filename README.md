@@ -35,3 +35,15 @@ this will require having the parent thread wait for the child thread to finish.
  Q1- binary and counting semaphores
  Q2- peterson alg0
  q3- race condition using fork
+ 
+ Assignment 7 :
+
+a)Write the code for producer and consumer classical process syncronization .
+
+b)Write a code for reader and writter classical process synchronization .
+
+Assignment 9 :
+
+a)Implement dining philosofers problem using semaphore.
+
+b)Implement dining philosofers problem using monitor.
